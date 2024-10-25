@@ -64,7 +64,7 @@ La entrega del proyecto se realizará a través de una **issue en GitHub**, trab
 
 - **Crear un nuevo repositorio en tu cuenta de GitHub:**
 
-   - Crea un nuevo repositorio llamado `Proyecto1-AnalisisFacua`. Este nombre es obligatorio, no podremos llamarlo de otra forma. 
+   - Crea un nuevo repositorio llamado `Proyecto4-AnalisisFacua`. Este nombre es obligatorio, no podremos llamarlo de otra forma. 
 
    - Configuralo como público. 
 
